@@ -9,7 +9,8 @@ body {
 .card {
   display: inline-block;
   background: #ffffff;
-  margin: 50%;
+  left: 41%;
+  margin-top: 5%;
   height: 400px;
   width: 250px;
   padding: 20px;
